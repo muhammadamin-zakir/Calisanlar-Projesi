@@ -1,6 +1,5 @@
 {
-  "employees": [
-    {
+  "employees": [{
       "name": "Mahmut Orhan",
       "department": "Tasarım",
       "salary": 10000,
@@ -35,12 +34,6 @@
       "department": "Satış",
       "salary": 9000,
       "id": 10
-    },
-    {
-      "name": "",
-      "department": "",
-      "salary": 0,
-      "id": 11
     }
   ]
 }
