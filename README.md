@@ -1,2 +1,2 @@
 # Çalışanlar Projesi
-git pWebpack server, Babel ve Json server ile çalışanlar projesi. 
+Webpack server, Babel ve Json server ile çalışanlar projesi. 
